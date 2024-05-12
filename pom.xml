@@ -65,13 +65,13 @@
                                 <rule>
                                     <limits>
 
-                                            <limits>
+
                                                 <limit>
                                                     <counter>BRANCH</counter>
                                                     <value>COVEREDRATIO</value>
                                                     <minimum>100%</minimum>
                                                 </limit>
-                                            </limits>
+
 
                                     </limits>
                                 </rule>
